@@ -1,0 +1,1 @@
+pleeeese.o: ../pleeeese.cpp
